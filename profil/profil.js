@@ -1552,7 +1552,7 @@ const biodata = {
   // Tambahan Batch 16 - Pengesahan 2024
   2024: [
     {
-      foto: "KHOIRUNNISA ",
+      foto: "KHOIRUNNISA",
       nama: "Khoirunnisa",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 04 Januari 2008",
@@ -1646,7 +1646,7 @@ const biodata = {
   // Tambahan Batch 17 - Pengesahan 2025
   2025: [
     {
-      foto: "DIVA KARYUNI ",
+      foto: "DIVA KARYUNI",
       nama: "Diva Karyuni",
       nomor: null,
       tempat_tanggal_lahir: "Serdang Menang, 20 Juni 2010",
@@ -1718,7 +1718,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "LAILATUL BALQIS",
+      foto: "",
       nama: "Lailatul Balqis",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1754,7 +1754,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "ADAM MALIK ",
+      foto: "ADAM MALIK",
       nama: "Adam Malik",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang, 12 Oktober 2009",
@@ -1808,7 +1808,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "MELA KIRANA",
+      foto: "",
       nama: "Mela Kirana",
       nomor: null,
       tempat_tanggal_lahir: "Keman, 11 September 2008",
@@ -1853,7 +1853,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "ALDI",
+      foto: "",
       nama: "Aldi",
       nomor: null,
       tempat_tanggal_lahir: "Keman, 22 Juni 2008",
@@ -1898,7 +1898,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "HERMAN KONI ",
+      foto: "HERMAN KONI",
       nama: "Herman Koni",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 19 November 1975",
@@ -1934,7 +1934,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "sairul",
+      foto: "SAIRUL",
       nama: "Sairul",
       nomor: null,
       tempat_tanggal_lahir: "Tulung Udiang, 23 Agustus 2009",
