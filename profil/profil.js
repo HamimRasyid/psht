@@ -14,7 +14,7 @@ document.addEventListener("click", function (e) {
 const biodata = {
   1997: [
     {
-      foto: "Abdul Karim",
+      foto: "ABDUL KARIM",
       nama: "Abdul Karim",
       no: null,
       tempat_tanggal_lahir: null,
@@ -23,7 +23,7 @@ const biodata = {
       pengesahan: "1987",
     },
     {
-      foto: "Muhamad Karya",
+      foto: "MUHAMAD KARYA",
       nama: "Muhamad Karya",
       no: "041500023",
       tempat_tanggal_lahir: "Serdang Menang, 03 Maret 1983",
@@ -32,7 +32,7 @@ const biodata = {
       pengesahan: "2004",
     },
     {
-      foto: "Dery Awalamuddin",
+      foto: "DERY AWALAMUDDIN",
       nama: "Dery Awalamuddin",
       no: null,
       tempat_tanggal_lahir: ",12 Desember 1987",
@@ -64,7 +64,7 @@ const biodata = {
   // Tambahan Batch 2 - Pengesahan 2009
   2009: [
     {
-      foto: "Septa Winarto",
+      foto: "SEPTA WINARTO",
       nama: "Septa Winarto",
       nomor: "091880037",
       tempat_tanggal_lahir: "Belanti, 15 September 1992",
