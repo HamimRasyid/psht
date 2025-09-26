@@ -85,20 +85,24 @@ body {
 #hamburger-menu {
   display: none;
 }
-
-.navbar-extra #search {
-  color: black;
-  position: relative;
-  text-align: center;
+.box {
+  height: 30px;
+  display: flex;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #fff;
+  border-radius: 30px;
   align-items: center;
+  box-shadow: 0 10px 25px rgba(255, 255, 255, 0.3);
+  width: 300px;
 }
-.navbar-extra #search input {
-  position: absolute;
-  padding: 7px;
-  border: 1px solid #aaa;
-  border-radius: 5px;
-  right: 0px;
-  z-index: -1;
+/* .box input {
+  width: auto;
+} */
+
+.box a #search {
+  color: #1daf;
+  font-size: 18px;
 }
 
 .data-warga {
@@ -191,6 +195,9 @@ img {
 
   .navbar .navbar-nav a:hover:after {
     transform: scaleX(0.2);
+  }
+  .navbar .navbar-logo {
+    display: none;
   }
 }
 /* mobile */
