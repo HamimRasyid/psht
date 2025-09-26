@@ -14,7 +14,7 @@ document.addEventListener("click", function (e) {
 const biodata = {
   1997: [
     {
-      foto: "Abdul Karim",
+      foto: "ABDUL KARIM",
       nama: "Abdul Karim",
       no: null,
       tempat_tanggal_lahir: null,
@@ -23,7 +23,7 @@ const biodata = {
       pengesahan: "1987",
     },
     {
-      foto: "Muhamad Karya",
+      foto: "MUHAMAD KARYA",
       nama: "Muhamad Karya",
       no: "041500023",
       tempat_tanggal_lahir: "Serdang Menang, 03 Maret 1983",
@@ -32,7 +32,7 @@ const biodata = {
       pengesahan: "2004",
     },
     {
-      foto: "Dery Awalamuddin",
+      foto: "DERY AWALAMUDDIN",
       nama: "Dery Awalamuddin",
       no: null,
       tempat_tanggal_lahir: ",12 Desember 1987",
@@ -64,7 +64,7 @@ const biodata = {
   // Tambahan Batch 2 - Pengesahan 2009
   2009: [
     {
-      foto: "Septa Winarto",
+      foto: "SEPTA WINARTO",
       nama: "Septa Winarto",
       nomor: "091880037",
       tempat_tanggal_lahir: "Belanti, 15 September 1992",
@@ -73,7 +73,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Rino Inper",
+      foto: "RINO INPER",
       nama: "Rino Inper",
       nama: "Rino Inper",
       nomor: "091880040",
@@ -83,7 +83,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Libra",
+      foto: "LIBRA",
       nama: "Libra",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -92,7 +92,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Vetty Dwi Vera",
+      foto: "VETTY DWI VERA",
       nama: "Vetty Dwi Vera",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -101,7 +101,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Ranti N",
+      foto: "RANTI N",
       nama: "Ranti N",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -110,7 +110,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Asri Hairiandy",
+      foto: "ASRI HAIRIANDY",
       nama: "Asri Hairiandy",
       nomor: "091880091",
       tempat_tanggal_lahir: "Terate, 21 Oktober 1993",
@@ -119,7 +119,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Hasan Beriandi",
+      foto: "HASAN BERIANDI",
       nama: "Hasan Beriandi",
       nomor: "091880093",
       tempat_tanggal_lahir: "Sp. Padang, 28 November 1994",
@@ -128,7 +128,7 @@ const biodata = {
       pengesahan: 2009,
     },
     {
-      foto: "Aliya",
+      foto: "ALIYA",
       nama: "Aliya",
       nomor: "091880092",
       tempat_tanggal_lahir: "Terate, 16 Desember 1995",
@@ -141,7 +141,7 @@ const biodata = {
   // Tambahan Batch 3 - Pengesahan 2010
   2010: [
     {
-      foto: "Muhammad Tesa",
+      foto: "MUHAMMAD TESA",
       nama: "Muhammad Tesa",
       nomor: "101880130",
       tempat_tanggal_lahir: "Ulak Jermun, 09 Juni 1995",
@@ -150,7 +150,7 @@ const biodata = {
       pengesahan: 2010,
     },
     {
-      foto: "Vina Meiwanda",
+      foto: "VINA MEIWANDA",
       nama: "Vina Meiwanda",
       nomor: "101880132",
       tempat_tanggal_lahir: "Serdang Menang, 07 Mei 1992",
@@ -159,7 +159,7 @@ const biodata = {
       pengesahan: 2010,
     },
     {
-      foto: "Vita Aprih",
+      foto: "VITA APRIH",
       nama: "Vita Aprih",
       nomor: "101880131",
       tempat_tanggal_lahir: "Serdang Menang, 28 April 1993",
@@ -172,7 +172,7 @@ const biodata = {
   // Tambahan Batch 4 - Pengesahan 2011
   2011: [
     {
-      foto: "Miki Harian",
+      foto: "MIKI HARIAN",
       nama: "Miki Harian",
       nomor: "20101321758",
       tempat_tanggal_lahir: "Berkat, 15 Desember 1994",
@@ -181,7 +181,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Dika Saputra",
+      foto: "DIKA SAPUTRA",
       nama: "Dika Saputra",
       nomor: "20101321755",
       tempat_tanggal_lahir: "Serdang Menang, 06 Oktober 1994",
@@ -190,7 +190,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Rini Oktavia",
+      foto: "RINI OKTAVIA",
       nama: "Rini Oktavia",
       nomor: "20101321748",
       tempat_tanggal_lahir: "Merah Mata, 25 Oktober 1994",
@@ -199,7 +199,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Elisa",
+      foto: "ELISA",
       nama: "Elisa",
       nomor: "20101321752",
       tempat_tanggal_lahir: "Ulak Pianggu, 13 Juni 1995",
@@ -208,7 +208,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Erik Sandela",
+      foto: "ERIK SANDELA",
       nama: "Erik Sandela",
       nomor: null,
       tempat_tanggal_lahir: "Ulak Pianggu, 05 Desember 1994",
@@ -217,7 +217,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Riansyah",
+      foto: "RIANSYAH",
       nama: "Riansyah",
       nomor: null,
       tempat_tanggal_lahir: "Pulau Borang, 21 November 1992",
@@ -226,7 +226,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Lamudin",
+      foto: "LAMUDIN",
       nama: "Lamudin",
       nomor: "20101321757",
       tempat_tanggal_lahir: "Serdang Menang, 17 Juli 1995",
@@ -235,7 +235,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Evan Farka",
+      foto: "EVAN FARKA",
       nama: "Evan Farka",
       nomor: "20101321750",
       tempat_tanggal_lahir: "Berkat, 05 Juli 1994",
@@ -244,7 +244,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Abdul Muluk",
+      foto: "ABDUL MULUK",
       nama: "Abdul Muluk",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -253,7 +253,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Gusman",
+      foto: "GUSMAN",
       nama: "Gusman",
       nomor: null,
       tempat_tanggal_lahir: "Serdang Menang, 25 Desember 1992",
@@ -262,7 +262,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Saf Agusmia",
+      foto: "SAF AGUSMIA",
       nama: "Saf Agusmia",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -271,7 +271,7 @@ const biodata = {
       pengesahan: 2011,
     },
     {
-      foto: "Syahril Sidik",
+      foto: "SYAHRIL SIDIK",
       nama: "Syahril Sidik",
       nomor: null,
       tempat_tanggal_lahir: "8 Februari 1994",
@@ -284,7 +284,7 @@ const biodata = {
   // Tambahan Batch 5 - Pengesahan 2012
   2012: [
     {
-      foto: "Ade Putri Gayatri",
+      foto: "ADE PUTRI GAYATRI",
       nama: "Ade Putri Gayatri",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -293,7 +293,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Ade Paradela",
+      foto: "ADE PARADELA",
       nama: "Ade Paradela",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -302,7 +302,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Kusnaidi",
+      foto: "KUSNAIDI",
       nama: "Kusnaidi",
       nomor: "20101322275",
       tempat_tanggal_lahir: "Keman, 27 November 1993",
@@ -311,7 +311,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Somad",
+      foto: "SOMAD",
       nama: "Somad",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -320,7 +320,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Pawiran",
+      foto: "PAWIRAN",
       nama: "Pawiran",
       nomor: null,
       tempat_tanggal_lahir: "Kandis, 25 Desember 1995",
@@ -329,7 +329,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Jeri Rangkuti",
+      foto: "JERI RANGKUTI",
       nama: "Jeri Rangkuti",
       nomor: "20101322276",
       tempat_tanggal_lahir: "Keman, 19 Mei 1995",
@@ -338,7 +338,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Lelita Marizi",
+      foto: "LELITA MARIZI",
       nama: "Lelita Marizi",
       nomor: "20101322297",
       tempat_tanggal_lahir: "Bungin Tinggi, 08 Maret 1997",
@@ -347,7 +347,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Romani",
+      foto: "ROMANI",
       nama: "Romani",
       nomor: "20101322270",
       tempat_tanggal_lahir: "Ulak Pianggu, 04 Juli 1994",
@@ -356,7 +356,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Miska",
+      foto: "MISKA",
       nama: "Miska",
       nomor: "20101322274",
       tempat_tanggal_lahir: "Pulau Layang, 27 Oktober 1994",
@@ -365,7 +365,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Rhafeldo Eka Putra",
+      foto: "RHAFELDO EKA PUTRA",
       nama: "Rhafeldo Eka Putra",
       nomor: "20101322286",
       tempat_tanggal_lahir: "Berkat, 10 Maret 1996",
@@ -374,7 +374,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Andri Alberto",
+      foto: "ANDRI ALBERTO",
       nama: "Andri Alberto",
       nomor: "20101322293",
       tempat_tanggal_lahir: "Kayuagung, 15 November 1995",
@@ -383,7 +383,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Benny Anggriawan",
+      foto: "BENNY ANGGRIAWAN",
       nama: "Benny Anggriawan",
       nomor: "20101322295",
       tempat_tanggal_lahir: "Plaju, 11 Februari 1994",
@@ -392,7 +392,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Revel Devsing Hilinder",
+      foto: "REVEL DEVSING HILINDER",
       nama: "Revel Devsing Hilinder",
       nomor: "20101322284",
       tempat_tanggal_lahir: "Berkat, 13 Mei 1995",
@@ -401,7 +401,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Asrun",
+      foto: "ASRUN",
       nama: "Asrun",
       nomor: "20101322287",
       tempat_tanggal_lahir: "Sukaraja, 25 Maret 1995",
@@ -410,7 +410,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Hapril Triadi",
+      foto: "HAPRIL TRIADI",
       nama: "Hapril Triadi",
       nomor: "20101322279",
       tempat_tanggal_lahir: "Pampangan, 11 April 1996",
@@ -419,7 +419,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Boni Candra",
+      foto: "BONI CANDRA",
       nama: "Boni Candra",
       nomor: "20101322277",
       tempat_tanggal_lahir: "Sri Menang, 15 April 1996",
@@ -428,7 +428,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Gerry Ade Soecipto",
+      foto: "GERRY ADE SOECIPTO",
       nama: "Gerry Ade Soecipto",
       nomor: "20101322296",
       tempat_tanggal_lahir: "Terate, 19 Juni 1997",
@@ -437,7 +437,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Gella Arinda",
+      foto: "GELLA ARINDA",
       nama: "Gella Arinda",
       nomor: "20101322280",
       tempat_tanggal_lahir: "Penyandingan, 16 November 1997",
@@ -446,7 +446,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Resinta Rahmayani",
+      foto: "RESINTA RAHMAYANI",
       nama: "Resinta Rahmayani",
       nomor: "20101322292",
       tempat_tanggal_lahir: "Terate, 3 Juli 1996",
@@ -455,7 +455,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Zelika Meisita",
+      foto: "ZELIKA MEISITA",
       nama: "Zelika Meisita",
       nomor: "20101322289",
       tempat_tanggal_lahir: "Palembang, 20 Mei 1996",
@@ -464,7 +464,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Anisa Fitri",
+      foto: "ANISA FITRI",
       nama: "Anisa Fitri",
       nomor: "20101322290",
       tempat_tanggal_lahir: "Terusan Menang, 02 September 1996",
@@ -473,7 +473,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Putri Wulansari",
+      foto: "PUTRI WULANSARI",
       nama: "Putri Wulansari",
       nomor: "20101322294",
       tempat_tanggal_lahir: "Serdang Menang, 31 Desember 1995",
@@ -482,7 +482,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Danil Risaldi",
+      foto: "DANIL RISALDI",
       nama: "Danil Risaldi",
       nomor: "20101322285",
       tempat_tanggal_lahir: "Berkat, 17 April 1995",
@@ -491,7 +491,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Fiktor Kareno",
+      foto: "FIKTOR KARENO",
       nama: "Fiktor Kareno",
       nomor: "20101322283",
       tempat_tanggal_lahir: "Berkat, 29 Juli 1995",
@@ -500,7 +500,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Abdul Rohim",
+      foto: "ABDUL ROHIM",
       nama: "Abdul Rohim",
       nomor: "20101322298",
       tempat_tanggal_lahir: "Palembang, 13 Juli 1997",
@@ -509,7 +509,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Wandra",
+      foto: "WANDRA",
       nama: "Wandra",
       nomor: "20101322282",
       tempat_tanggal_lahir: "Sukaraja, 15 Juli 1992",
@@ -518,7 +518,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Seliana Junita",
+      foto: "SELIANA JUNITA",
       nama: "Seliana Junita",
       nomor: "20101322281",
       tempat_tanggal_lahir: "Palembang, 13 Juni 1997",
@@ -527,7 +527,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Debi Novalia",
+      foto: "DEBI NOVALIA",
       nama: "Debi Novalia",
       nomor: "20101322281",
       tempat_tanggal_lahir: "Serdang Menang, 04 November 1997",
@@ -536,7 +536,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Yelis",
+      foto: "YELIS",
       nama: "Yelis",
       nomor: "20101322288",
       tempat_tanggal_lahir: "Terate, 19 April 1995",
@@ -545,7 +545,7 @@ const biodata = {
       pengesahan: 2012,
     },
     {
-      foto: "Ikek Pratiwi",
+      foto: "IKEK PRATIWI",
       nama: "Ikek Pratiwi",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -558,7 +558,7 @@ const biodata = {
   // Tambahan Batch 6 - Pengesahan 2013
   2013: [
     {
-      foto: "Risyar Apriantama",
+      foto: "RISYAR APRIANTAMA",
       nama: "Risyar Apriantama",
       nomor: "20131320786",
       tempat_tanggal_lahir: "Terate, 13 April 1998",
@@ -571,7 +571,7 @@ const biodata = {
   // Tambahan Batch 7 - Pengesahan 2014
   2014: [
     {
-      foto: "Apriansyah",
+      foto: "APRIANSYAH",
       nama: "Apriansyah",
       nomor: "20141321619",
       tempat_tanggal_lahir: "Riding, 17 November 1998",
@@ -580,7 +580,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Reza Apriadi",
+      foto: "REZA APRIADI",
       nama: "Reza Apriadi",
       nomor: "20141321625",
       tempat_tanggal_lahir: "Bogor, 30 April 1998",
@@ -589,7 +589,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Riyan Hidayat",
+      foto: "RIYAN HIDAYAT",
       nama: "Riyan Hidayat",
       nomor: "20141321630",
       tempat_tanggal_lahir: "Selat Ajaran, 04 Juni 1997",
@@ -598,7 +598,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Sepriansyah",
+      foto: "SEPRIANSYAH",
       nama: "Sepriansyah",
       nomor: "20141321632",
       tempat_tanggal_lahir: "Sukaraja, 16 September 1997",
@@ -607,7 +607,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Jeri",
+      foto: "JERI",
       nama: "Jeri",
       nomor: "20141321622",
       tempat_tanggal_lahir: "Keman, 14 Juli 1996",
@@ -616,7 +616,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Dicki Ramadhan",
+      foto: "DICKI RAMADHAN",
       nama: "Dicki Ramadhan",
       nomor: null,
       tempat_tanggal_lahir: "Sepang, 12 Januari 1997",
@@ -625,7 +625,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Sarwin",
+      foto: "SARWIN",
       nama: "Sarwin",
       nomor: "20141321626",
       tempat_tanggal_lahir: "Keman, 30 Juni 1998",
@@ -634,7 +634,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "M. Ari Nugraha",
+      foto: "M. ARI NUGRAHA",
       nama: "M. Ari Nugraha",
       nomor: "20141321611",
       tempat_tanggal_lahir: "Prabumulih, 07 Februari 1998",
@@ -643,7 +643,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "M. Fahmi",
+      foto: "M. FAHMI",
       nama: "M. Fahmi",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -652,7 +652,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Tungki Ariwibowo",
+      foto: "TUNGKI ARIWIBOWO",
       nama: "Tungki Ariwibowo",
       nomor: "20141321627",
       tempat_tanggal_lahir: "Ulak Pianggu, 23 Juli 1997",
@@ -661,7 +661,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Abdul Roni",
+      foto: "ABDUL RONI",
       nama: "Abdul Roni",
       nomor: "20141321618",
       tempat_tanggal_lahir: "Palembang, 06 September 1997",
@@ -670,7 +670,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Dandi Saputra",
+      foto: "DANDI SAPUTRA",
       nama: "Dandi Saputra",
       nomor: "20141321620",
       tempat_tanggal_lahir: "Pampangan, 01 November 1997",
@@ -679,7 +679,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Rizki Ameliani",
+      foto: "RIZKI AMELIANI",
       nama: "Rizki Ameliani",
       nomor: "20141321631",
       tempat_tanggal_lahir: "Terate, 17 Mei 1991",
@@ -688,7 +688,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Addrianie Novellie",
+      foto: "ADDRIANIE NOVELLIE",
       nama: "Addrianie Novellie",
       nomor: "20141321628",
       tempat_tanggal_lahir: "Terate, 05 Desember 1994",
@@ -697,7 +697,7 @@ const biodata = {
       pengesahan: 2014,
     },
     {
-      foto: "Dewi Suryati",
+      foto: "DEWI SURYATI",
       nama: "Dewi Suryati",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang, 06 Februari 1998",
@@ -710,7 +710,7 @@ const biodata = {
   // Tambahan Batch 8 - Pengesahan 2015
   2015: [
     {
-      foto: "Rosmalinda",
+      foto: "ROSMALINDA",
       nama: "Rosmalinda",
       nomor: "20151320628",
       tempat_tanggal_lahir: "Terate, 27 Oktober 1996",
@@ -719,7 +719,7 @@ const biodata = {
       pengesahan: 2015,
     },
     {
-      foto: "Seleste",
+      foto: "SELESTE",
       nama: "Seleste",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -728,7 +728,7 @@ const biodata = {
       pengesahan: 2015,
     },
     {
-      foto: "Sulistiono Akbar",
+      foto: "SULISTIONO AKBAR",
       nama: "Sulistiono Akbar",
       nomor: "20151320630",
       tempat_tanggal_lahir: "Sp. Padang, 23 April 1999",
@@ -737,7 +737,7 @@ const biodata = {
       pengesahan: 2015,
     },
     {
-      foto: "Moh Rizal",
+      foto: "MOH RIZAL",
       nama: "Moh Rizal",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -750,7 +750,7 @@ const biodata = {
   // Tambahan Batch 9 - Pengesahan 2016
   2016: [
     {
-      foto: "Bella Rahmadina",
+      foto: "BELLA RAHMADINA",
       nama: "Bella Rahmadina",
       nomor: "20161320763",
       tempat_tanggal_lahir: "Terusan Menang, 06 Maret 2000",
@@ -759,7 +759,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Apero",
+      foto: "APERO",
       nama: "Apero",
       nomor: "20161320759",
       tempat_tanggal_lahir: "Sukaraja, 03 September 1999",
@@ -768,7 +768,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Muhammad Danil",
+      foto: "MUHAMMAD DANIL",
       nama: "Muhammad Danil",
       nomor: "20161320783",
       tempat_tanggal_lahir: "Palembang, 13 September 1998",
@@ -777,7 +777,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Gevin Mahestu",
+      foto: "GEVIN MAHESTU",
       nama: "Gevin Mahestu",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 05 Mei 1999",
@@ -786,7 +786,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Ayu Nariski",
+      foto: "AYU NARISKI",
       nama: "Ayu Nariski",
       nomor: "20161320762",
       tempat_tanggal_lahir: "Awal Terusan, 05 Februari 1998",
@@ -795,7 +795,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Mardiana",
+      foto: "MARDIANA",
       nama: "Mardiana",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 05 Oktober 2000",
@@ -804,7 +804,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Citra Dewi",
+      foto: "CITRA DEWI",
       nama: "Citra Dewi",
       nomor: "201613200139",
       tempat_tanggal_lahir: "Mangun Jaya, 29 Oktober 1998",
@@ -813,7 +813,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Yuniarti",
+      foto: "YUNIARTI",
       nama: "Yuniarti",
       nomor: "20161320801",
       tempat_tanggal_lahir: "Awal Terusan, 14 Agustus 1999",
@@ -822,7 +822,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Emilia Tabsah",
+      foto: "EMILIA TABSAH",
       nama: "Emilia Tabsah",
       nomor: null,
       tempat_tanggal_lahir: "Kijang Ulu, 12 Desember 1999",
@@ -831,7 +831,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Desi Ratnasari",
+      foto: "DESI RATNASARI",
       nama: "Desi Ratnasari",
       nomor: null,
       tempat_tanggal_lahir: "Tebing Tinggi, 03 Oktober 1999",
@@ -840,7 +840,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Rahayu",
+      foto: "RAHAYU",
       nama: "Rahayu",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -849,7 +849,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Rinaldi",
+      foto: "RINALDI",
       nama: "Rinaldi",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 07 Oktober 1999",
@@ -858,7 +858,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Abdar Ra’uf",
+      foto: "ABDAR RA’UF",
       nama: "Abdar Ra’uf",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -867,7 +867,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "Arifa’i",
+      foto: "ARIFA’I",
       nama: "Arifa’i",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -876,7 +876,7 @@ const biodata = {
       pengesahan: 2016,
     },
     {
-      foto: "M Rico Juarda",
+      foto: "M RICO JUARDA",
       nama: "M. Rico Juarda",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -889,7 +889,7 @@ const biodata = {
   // Tambahan Batch 10 - Pengesahan 2017
   2017: [
     {
-      foto: "Taupan Eko Nugraha",
+      foto: "TAUPAN EKO NUGRAHA",
       nama: "Taupan Eko Nugraha",
       nomor: "20171320836",
       tempat_tanggal_lahir: "Terate, 10 April 1999",
@@ -898,7 +898,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Febri Yansah",
+      foto: "FEBRI YANSAH",
       nama: "Febri Yansah",
       nomor: "20171320830",
       tempat_tanggal_lahir: "Palembang, 19 Februari 2001",
@@ -907,7 +907,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Alviansyah",
+      foto: "ALVIANSYAH",
       nama: "Alviansyah",
       nomor: "20171320826",
       tempat_tanggal_lahir: "Terusan Menang, 28 Mei 2001",
@@ -916,7 +916,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "M. Fantra Romadhon",
+      foto: "M. FANTRA ROMADHON",
       nama: "M. Fantra Romadhon",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang, 09 Desember 2000",
@@ -925,7 +925,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Joni Akbar",
+      foto: "JONI AKBAR",
       nama: "Joni Akbar",
       nomor: null,
       tempat_tanggal_lahir: "Sepang, 05 Juni 2000",
@@ -934,7 +934,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Agus Salim",
+      foto: "AGUS SALIM",
       nama: "Agus Salim",
       nomor: null,
       tempat_tanggal_lahir: "Belanti, 06 Agustus 2000",
@@ -943,7 +943,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Arman",
+      foto: "ARMAN",
       nama: "Arman",
       nomor: "20171320828",
       tempat_tanggal_lahir: "Awal Terusan, 15 Mei 2001",
@@ -952,7 +952,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Syalila Widyan Fahira",
+      foto: "SYALILA WIDYAN FAHIRA",
       nama: "Syalila Widyan Fahira",
       nomor: null,
       tempat_tanggal_lahir: "Jakarta, 11 Januari 2003",
@@ -961,7 +961,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Anisa Mayang Sari",
+      foto: "ANISA MAYANG SARI",
       nama: "Anisa Mayang Sari",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 29 Juli 2002",
@@ -970,7 +970,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Audi Yesyah Aulia",
+      foto: "AUDI YESYAH AULIA",
       nama: "Audi Yesyah Aulia",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 23 April 2003",
@@ -979,7 +979,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Sri Winda Ningsih",
+      foto: "SRI WINDA NINGSIH",
       nama: "Sri Winda Ningsih",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 29 September 2001",
@@ -988,7 +988,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Zakia Azzahra",
+      foto: "ZAKIA AZZAHRA",
       nama: "Zakia Azzahra",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 29 Oktober 2000",
@@ -997,7 +997,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Pingki",
+      foto: "PINGKI",
       nama: "Pingki",
       nomor: null,
       tempat_tanggal_lahir: "Sukaraja, 29 Maret 2001",
@@ -1006,7 +1006,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Jaka Pratama",
+      foto: "JAKA PRATAMA",
       nama: "Jaka Pratama",
       nomor: "20171320838",
       tempat_tanggal_lahir: "Awal Terusan, 23 Desember 2000",
@@ -1015,7 +1015,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Komarudin",
+      foto: "KOMARUDIN",
       nama: "Komarudin",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 31 Mei 2000",
@@ -1024,7 +1024,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Yuprizer",
+      foto: "YUPRIZER",
       nama: "Yuprizer",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1033,7 +1033,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Riskika Rucitra",
+      foto: "RISKIKA RUCITRA",
       nama: "Riskika Rucitra",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 14 Mei 2003",
@@ -1042,7 +1042,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Okta Kiranti",
+      foto: "OKTA KIRANTI",
       nama: "Okta Kiranti",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 07 Oktober 2002",
@@ -1051,7 +1051,7 @@ const biodata = {
       pengesahan: 2017,
     },
     {
-      foto: "Jeri Yanto",
+      foto: "JERI YANTO",
       nama: "Jeri Yanto",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1064,7 +1064,7 @@ const biodata = {
   // Tambahan Batch 11 - Pengesahan 2018
   2018: [
     {
-      foto: "Muhammad Roliansyah",
+      foto: "MUHAMMAD ROLIANSYAH",
       nama: "Muhammad Roliansyah",
       nomor: null,
       tempat_tanggal_lahir: "Ulak Kemang Baru, 05 April 2001",
@@ -1073,7 +1073,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Candra",
+      foto: "CANDRA",
       nama: "Candra",
       nomor: null,
       tempat_tanggal_lahir: "Ulak Kemang, 27 Desember 2001",
@@ -1082,7 +1082,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Hamim Rasyid Ridho",
+      foto: "HAMIM RASYID RIDHO",
       nama: "Hamim Rasyid Ridho",
       nomor: "201813212403",
       tempat_tanggal_lahir: "Terate, 28 Januari 2002",
@@ -1091,7 +1091,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "M. Robi Eka Putra",
+      foto: "M. ROBI EKA PUTRA",
       nama: "M. Robi Eka Putra",
       nomor: "201813212404",
       tempat_tanggal_lahir: "Palembang, 27 Juli 2000",
@@ -1100,7 +1100,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Jecky Zimah",
+      foto: "JECKY ZIMAH",
       nama: "Jecky Zimah",
       nomor: "201813212405",
       tempat_tanggal_lahir: "Berkat, 13 Agustus 2000",
@@ -1109,7 +1109,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Tania",
+      foto: "TANIA",
       nama: "Tania",
       nomor: "19720010009",
       tempat_tanggal_lahir: "Terusan Menang, 05 Desember 2003",
@@ -1118,7 +1118,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Bastoni",
+      foto: "BASTONI",
       nama: "Bastoni",
       nomor: "201813212408",
       tempat_tanggal_lahir: "Kayuagung, 17 Mei 2001",
@@ -1127,7 +1127,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Suprapto",
+      foto: "SUPRAPTO",
       nama: "Suprapto",
       nomor: "201813212410",
       tempat_tanggal_lahir: "Berkat, 23 November 2001",
@@ -1136,7 +1136,7 @@ const biodata = {
       pengesahan: 2018,
     },
     {
-      foto: "Treli",
+      foto: "TRELI",
       nama: "Treli",
       nomor: null,
       tempat_tanggal_lahir: "Penyandingan, 09 Januari 2002",
@@ -1149,7 +1149,7 @@ const biodata = {
   // Tambahan Batch 12 - Pengesahan 2019
   2019: [
     {
-      foto: "Muhamad Firli",
+      foto: "MUHAMAD FIRLI",
       nama: "Muhamad Firli",
       nomor: "201913235561",
       tempat_tanggal_lahir: "Berkat, 22 April 2003",
@@ -1158,7 +1158,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Eltri Roren Noprenka",
+      foto: "ELTRI ROREN NOPRENKA",
       nama: "Eltri Roren Noprenka",
       nomor: "201913235556",
       tempat_tanggal_lahir: "Kayuagung, 04 Desember 2003",
@@ -1167,7 +1167,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Rusyan Hasrat",
+      foto: "RUSYAN HASRAT",
       nama: "Rusyan Hasrat",
       nomor: "201913235567",
       tempat_tanggal_lahir: "Kayuagung, 23 Desember 2000",
@@ -1176,7 +1176,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Liliani",
+      foto: "LILIANI",
       nama: "Liliani",
       nomor: "2019132235559",
       tempat_tanggal_lahir: "Berkat, 04 Oktober 2001",
@@ -1185,7 +1185,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Sarmila",
+      foto: "SARMILA",
       nama: "Sarmila",
       nomor: "2019132235568",
       tempat_tanggal_lahir: "Terusan Menang, 07 Januari 2002",
@@ -1194,7 +1194,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Baina",
+      foto: "BAINA",
       nama: "Baina",
       nomor: "2019132235554",
       tempat_tanggal_lahir: "Sukaraja, 01 Januari 2000",
@@ -1203,7 +1203,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Erina",
+      foto: "ERINA",
       nama: "Erina",
       nomor: "2019132235557",
       tempat_tanggal_lahir: "Ulak Kemang, 25 November 2000",
@@ -1212,7 +1212,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Andre Gustiadi",
+      foto: "ANDRE GUSTIADI",
       nama: "Andre Gustiadi",
       nomor: "20191322355..",
       tempat_tanggal_lahir: null,
@@ -1221,7 +1221,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Nurlaila",
+      foto: "NURLAILA",
       nama: "Nurlaila",
       nomor: "2019132235563",
       tempat_tanggal_lahir: "Kayuagung, 19 November 2001",
@@ -1230,7 +1230,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Siska Amelia",
+      foto: "SISKA AMELIA",
       nama: "Siska Amelia",
       nomor: "20191322355..",
       tempat_tanggal_lahir: "Bubusan, 24 Juli 2002",
@@ -1239,7 +1239,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Renaldo",
+      foto: "RENALDO",
       nama: "Renaldo",
       nomor: "20191322355..",
       tempat_tanggal_lahir: null,
@@ -1248,7 +1248,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "M Alfin Asri",
+      foto: "M ALFIN ASRI",
       nama: "M. Alfin Asri",
       nomor: "2019132235560",
       tempat_tanggal_lahir: "Palembang, 27 September 2000",
@@ -1257,7 +1257,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Renia Anggita",
+      foto: "RENIA ANGGITA",
       nama: "Renia Anggita",
       nomor: "20191322355..",
       tempat_tanggal_lahir: "16 April 2002",
@@ -1266,7 +1266,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Lilia",
+      foto: "LILIA",
       nama: "Lilia",
       nomor: "20191322355..",
       tempat_tanggal_lahir: null,
@@ -1275,7 +1275,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Ummi Kalsum",
+      foto: "UMMI KALSUM",
       nama: "Ummi Kalsum",
       nomor: "20191322355..",
       tempat_tanggal_lahir: "Terate, 18 Juli 2003",
@@ -1284,7 +1284,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Rindiani",
+      foto: "RINDIANI",
       nama: "Rindiani",
       nomor: "20191322355..",
       tempat_tanggal_lahir: "2 September 2000",
@@ -1293,7 +1293,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Muhammad Fransisco",
+      foto: "MUHAMMAD FRANSISCO",
       nama: "Muhammad Fransisco",
       nomor: "20191322355..",
       tempat_tanggal_lahir: "Sepang, 09 Mei 2001",
@@ -1302,7 +1302,7 @@ const biodata = {
       pengesahan: 2019,
     },
     {
-      foto: "Edi Saputra",
+      foto: "EDI SAPUTRA",
       nama: "Edi Saputra",
       nomor: "20191322355..",
       tempat_tanggal_lahir: "10 November 2000",
@@ -1315,7 +1315,7 @@ const biodata = {
   // Tambahan Batch 13 - Pengesahan 2020
   2020: [
     {
-      foto: "Subandrio",
+      foto: "SUBANDRIO",
       nama: "Subandrio",
       nomor: "202013244917",
       tempat_tanggal_lahir: "Talang Cempedak, 09 Maret 2002",
@@ -1324,7 +1324,7 @@ const biodata = {
       pengesahan: 2020,
     },
     {
-      foto: "Mira Aprilia",
+      foto: "MIRA APRILIA",
       nama: "Mira Aprilia",
       nomor: "202013244918",
       tempat_tanggal_lahir: "Terate, 11 April 2004",
@@ -1333,7 +1333,7 @@ const biodata = {
       pengesahan: 2020,
     },
     {
-      foto: "Yuda Apendi",
+      foto: "YUDA APENDI",
       nama: "Yuda Apendi",
       nomor: "202013244921",
       tempat_tanggal_lahir: "Sujian, 25 Mei 2002",
@@ -1342,7 +1342,7 @@ const biodata = {
       pengesahan: 2020,
     },
     {
-      foto: "Dimas",
+      foto: "DIMAS",
       nama: "Dimas",
       nomor: "202013244920",
       tempat_tanggal_lahir: "Kayuagung, 26 Juni 2004",
@@ -1351,7 +1351,7 @@ const biodata = {
       pengesahan: 2020,
     },
     {
-      foto: "Renol Subakti",
+      foto: "RENOL SUBAKTI",
       nama: "Renol Subakti",
       nomor: "202013244919",
       tempat_tanggal_lahir: "22 Februari 2002",
@@ -1364,7 +1364,7 @@ const biodata = {
   // Tambahan Batch 14 - Pengesahan 2022
   2022: [
     {
-      foto: "Ayu Wandira",
+      foto: "AYU WANDIRA",
       nama: "Ayu Wandira",
       nomor: "202213252460",
       tempat_tanggal_lahir: "Terusan Menang, 31 Mei 2005",
@@ -1373,7 +1373,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Dhimas Dwijaya Putra",
+      foto: "DHIMAS DWIJAYA PUTRA",
       nama: "Dhimas Dwijaya Putra",
       nomor: "2022132524..",
       tempat_tanggal_lahir: "Palembang, 20 Desember 2004",
@@ -1382,7 +1382,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Bayu Gustiyan",
+      foto: "BAYU GUSTIYAN",
       nama: "Bayu Gustiyan",
       nomor: "202213252461",
       tempat_tanggal_lahir: "Berkat, 26 Agustus 2006",
@@ -1391,7 +1391,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Ilham",
+      foto: "ILHAM",
       nama: "Ilham",
       nomor: "202213252464",
       tempat_tanggal_lahir: "Ulak Kemang, 06 September 2006",
@@ -1400,7 +1400,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Sri Dwi Lestari",
+      foto: "SRI DWI LESTARI",
       nama: "Sri Dwi Lestari",
       nomor: "202213252470",
       tempat_tanggal_lahir: "Terate, 26 Maret 2007",
@@ -1409,7 +1409,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Pramana",
+      foto: "PRAMANA",
       nama: "Pramana",
       nomor: "2022132524..",
       tempat_tanggal_lahir: "Ulak Kemang, 24 Juli 2002",
@@ -1418,7 +1418,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Desi Kartika",
+      foto: "DESI KARTIKA",
       nama: "Desi Kartika",
       nomor: "202213252462",
       tempat_tanggal_lahir: "Serdang Menang, 18 Desember 2005",
@@ -1427,7 +1427,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Karisma Malhotra",
+      foto: "KARISMA MALHOTRA",
       nama: "Karisma Malhotra",
       nomor: "202213252465",
       tempat_tanggal_lahir: "Penyandingan, 11 Juni 2005",
@@ -1436,7 +1436,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Nadia Putri Hensi",
+      foto: "NADIA PUTRI HENSI",
       nama: "Nadia Putri Hensi",
       nomor: "202213252467",
       tempat_tanggal_lahir: "Penyandingan, 21 November 2007",
@@ -1445,7 +1445,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Siti Rohana",
+      foto: "SITI ROHANA",
       nama: "Siti Rohana",
       nomor: "2022132524..",
       tempat_tanggal_lahir: null,
@@ -1454,7 +1454,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Tegar Nagareta",
+      foto: "TEGAR NAGARETA",
       nama: "Tegar Nagareta",
       nomor: "2022132252471",
       tempat_tanggal_lahir: "Terusan Menang, 15 Maret 2006",
@@ -1463,7 +1463,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "Arum Sari",
+      foto: "ARUM SARI",
       nama: "Arum Sari",
       nomor: "2022132252459",
       tempat_tanggal_lahir: "Bungin Tinggi, 29 Agustus 2007",
@@ -1472,7 +1472,7 @@ const biodata = {
       pengesahan: 2022,
     },
     {
-      foto: "M Afla Tegar Sabrino",
+      foto: "M AFLA TEGAR SABRINO",
       nama: "M Afla Tegar Sabrino",
       nomor: "20221322524..",
       tempat_tanggal_lahir: null,
@@ -1485,7 +1485,7 @@ const biodata = {
   // Tambahan Batch 15 - Pengesahan 2023
   2023: [
     {
-      foto: "Meta",
+      foto: "META",
       nama: "Meta",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1494,7 +1494,7 @@ const biodata = {
       pengesahan: 2023,
     },
     {
-      foto: "Irma",
+      foto: "IRMA",
       nama: "Irma",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1503,7 +1503,7 @@ const biodata = {
       pengesahan: 2023,
     },
     {
-      foto: "M. Alman Suherman",
+      foto: "M. ALMAN SUHERMAN",
       nama: "M. Alman Suherman",
       nomor: "16022023132042789",
       tempat_tanggal_lahir: "Awal Terusan, 18 November 2002",
@@ -1512,7 +1512,7 @@ const biodata = {
       pengesahan: 2023,
     },
     {
-      foto: "Rahmido",
+      foto: "RAHMIDO",
       nama: "Rahmido",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1521,7 +1521,7 @@ const biodata = {
       pengesahan: 2023,
     },
     {
-      foto: "Anto Sopianto",
+      foto: "ANTO SOPIANTO",
       nama: "Anto Sopianto",
       nomor: "16022023132042784",
       tempat_tanggal_lahir: "Rawang Besar, 16 Desember 2001",
@@ -1530,7 +1530,7 @@ const biodata = {
       pengesahan: 2023,
     },
     {
-      foto: "Memet",
+      foto: "MEMET",
       nama: "Memet",
       nomor: "16022023132042787",
       tempat_tanggal_lahir: "Awal Terusan, 02 Desember 2001",
@@ -1539,7 +1539,7 @@ const biodata = {
       pengesahan: 2023,
     },
     {
-      foto: "Ariansyah",
+      foto: "ARIANSYAH",
       nama: "Ariansyah",
       nomor: null,
       tempat_tanggal_lahir: null,
@@ -1552,7 +1552,7 @@ const biodata = {
   // Tambahan Batch 16 - Pengesahan 2024
   2024: [
     {
-      foto: "Khoirunnisa",
+      foto: "KHOIRUNNISA",
       nama: "Khoirunnisa",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 04 Januari 2008",
@@ -1561,7 +1561,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Nabilah",
+      foto: "NABILAH",
       nama: "Nabilah",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang, 15 Juli 2007",
@@ -1570,7 +1570,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Rosa",
+      foto: "ROSA",
       nama: "Rosa",
       nomor: null,
       tempat_tanggal_lahir: "Sukaraja, 12 Agustus 2008",
@@ -1579,7 +1579,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Taniaa",
+      foto: "TANIAA",
       nama: "Tania",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang, 01 Januari 2008",
@@ -1588,7 +1588,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Widia",
+      foto: "WIDIA",
       nama: "Widia",
       nomor: null,
       tempat_tanggal_lahir: "Sukaraja, 31 Januari 2008",
@@ -1597,7 +1597,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Wulandari",
+      foto: "WULANDARI",
       nama: "Wulandari",
       nomor: null,
       tempat_tanggal_lahir: "Sukaraja, 14 Januari 2009",
@@ -1606,7 +1606,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Muhamat Jani",
+      foto: "MUHAMAT JANI",
       nama: "Muhamat Jani",
       nomor: null,
       tempat_tanggal_lahir: "Rawang Besar, 05 Desember 2007",
@@ -1615,7 +1615,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "Perdi Eko Pratama",
+      foto: "PERDI EKO PRATAMA",
       nama: "Perdi Eko Pratama",
       nomor: null,
       tempat_tanggal_lahir: "Rawang Besar, 11 Maret 2008",
@@ -1633,7 +1633,7 @@ const biodata = {
       pengesahan: 2024,
     },
     {
-      foto: "M. Fhirly Saputra",
+      foto: "M. FHIRLY SAPUTRA",
       nama: "M. Fhirly Saputra",
       nomor: null,
       tempat_tanggal_lahir: "Kayuagung, 13 September 2009",
@@ -1646,7 +1646,7 @@ const biodata = {
   // Tambahan Batch 17 - Pengesahan 2025
   2025: [
     {
-      foto: "Diva Karyuni",
+      foto: "DIVA KARYUNI",
       nama: "Diva Karyuni",
       nomor: null,
       tempat_tanggal_lahir: "Serdang Menang, 20 Juni 2010",
@@ -1655,7 +1655,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Dhea Nara Cantika Agtha",
+      foto: "DHEA NARA CANTIKA AGTHA",
       nama: "Dhea Nara Cantika Agtha",
       nomor: null,
       tempat_tanggal_lahir: "Gedung Agung, 19 April 2011",
@@ -1664,7 +1664,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Nadia Destrianti",
+      foto: "NADIA DESTRIANTI",
       nama: "Nadia Destrianti",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 22 Desember 2009",
@@ -1673,7 +1673,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Klara",
+      foto: "KLARA",
       nama: "Klara",
       nomor: null,
       tempat_tanggal_lahir: "Belanti, 28 April 2009",
@@ -1682,7 +1682,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Anggita",
+      foto: "ANGGITA",
       nama: "Anggita",
       nomor: null,
       tempat_tanggal_lahir: "Belanti, 24 Februari 2007",
@@ -1691,7 +1691,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Putri Nadia",
+      foto: "PUTRI NADIA",
       nama: "Putri Nadia",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 05 Desember 2008",
@@ -1700,7 +1700,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Putri Indriyana",
+      foto: "PUTRI INDRIYANA",
       nama: "Putri Indriyana",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang. OKI, 09 Januari 2009",
@@ -1709,7 +1709,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Putri Ayu",
+      foto: "PUTRI AYU",
       nama: "Putri Ayu",
       nomor: null,
       tempat_tanggal_lahir: "Sukaraja, 23 Juni 2010",
@@ -1727,7 +1727,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "M. Reyhan Fahirza",
+      foto: "M. REYHAN FAHIRZA",
       nama: "M. Reyhan Fahirza",
       nomor: null,
       tempat_tanggal_lahir: "Palembang, 07 Maret 2009",
@@ -1736,7 +1736,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Syarif Friansa",
+      foto: "SYARIF FRIANSA",
       nama: "Syarif Friansa",
       nomor: null,
       tempat_tanggal_lahir: "Serdang Menang, 28 Mei 2008",
@@ -1745,7 +1745,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Muhammad Iqbal",
+      foto: "MUHAMMAD IQBAL",
       nama: "Muhammad Iqbal",
       nomor: null,
       tempat_tanggal_lahir: "Terate, 29 Mei 2008",
@@ -1754,7 +1754,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Adam Malik",
+      foto: "ADAM MALIK",
       nama: "Adam Malik",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Menang, 12 Oktober 2009",
@@ -1763,7 +1763,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Eko",
+      foto: "EKO",
       nama: "Eko",
       nomor: null,
       tempat_tanggal_lahir: "Ulak Kemang, 03 Januari 2009",
@@ -1772,7 +1772,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Muhammad Danuh",
+      foto: "MUHAMMAD DANUH",
       nama: "Muhammad Danuh",
       nomor: null,
       tempat_tanggal_lahir: "Kayuagung, 19 Maret 2009",
@@ -1781,7 +1781,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Satria",
+      foto: "SATRIA",
       nama: "Satria",
       nomor: null,
       tempat_tanggal_lahir: "Kayuagung, 20 April 2007",
@@ -1790,7 +1790,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Sari",
+      foto: "SARI",
       nama: "Sari",
       nomor: null,
       tempat_tanggal_lahir: "Keman, 11 November 2007",
@@ -1799,7 +1799,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Dea Laura",
+      foto: "DEA LAURA",
       nama: "Dea Laura",
       nomor: null,
       tempat_tanggal_lahir: "Belanti, 29 Januari 2009",
@@ -1817,7 +1817,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Bima Pratama",
+      foto: "BIMA PRATAMA",
       nama: "Bima Pratama",
       nomor: null,
       tempat_tanggal_lahir: "Ulak Kemang, 03 Mei 2006",
@@ -1826,7 +1826,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Alengka",
+      foto: "ALENGKA",
       nama: "Alengka",
       nomor: null,
       tempat_tanggal_lahir: "Ulak Kemang, 03 April 2008",
@@ -1835,7 +1835,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Riski",
+      foto: "RISKI",
       nama: "Riski",
       nomor: null,
       tempat_tanggal_lahir: "Keman, 22 Oktober 2006",
@@ -1844,7 +1844,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "M. Reza Pratama",
+      foto: "M. REZA PRATAMA",
       nama: "M. Reza Pratama",
       nomor: null,
       tempat_tanggal_lahir: "Keman Baru, 05 Desember 2009",
@@ -1862,7 +1862,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Aulia Maulana",
+      foto: "AULIA MAULANA",
       nama: "Aulia Maulana",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 11 Maret 2009",
@@ -1871,7 +1871,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Imam Khanafi",
+      foto: "IMAM KHANAFI",
       nama: "Imam Khanafi",
       nomor: null,
       tempat_tanggal_lahir: "Tulung Agung, 12 November 1979",
@@ -1880,7 +1880,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Yudhi Apriadi",
+      foto: "YUDHI APRIADI",
       nama: "Yudhi Apriadi",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 09 April 1988",
@@ -1889,7 +1889,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Ade Maretha Pratama",
+      foto: "ADE MARETHA PRATAMA",
       nama: "Ade Maretha Pratama",
       nomor: null,
       tempat_tanggal_lahir: "Palembang, 07 Maret 1990",
@@ -1898,7 +1898,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Herman Koni",
+      foto: "HERMAN KONI",
       nama: "Herman Koni",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 19 November 1975",
@@ -1907,7 +1907,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Addres",
+      foto: "ADDRES",
       nama: "Addres",
       nomor: null,
       tempat_tanggal_lahir: "Tanjung Alai, 31 Januari 2009",
@@ -1916,7 +1916,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Edo Aldino",
+      foto: "EDO ALDINO",
       nama: "Edo Aldino",
       nomor: null,
       tempat_tanggal_lahir: "Terusan Laut, 05 Juli 2009",
@@ -1934,7 +1934,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "sairul",
+      foto: "SAIRUL",
       nama: "Sairul",
       nomor: null,
       tempat_tanggal_lahir: "Tulung Udiang, 23 Agustus 2009",
@@ -1943,7 +1943,7 @@ const biodata = {
       pengesahan: 2025,
     },
     {
-      foto: "Den Bagus",
+      foto: "DEN BAGUS",
       nama: "Den Bagus",
       nomor: null,
       tempat_tanggal_lahir: "Awal Terusan, 15 Agustus 2009",
